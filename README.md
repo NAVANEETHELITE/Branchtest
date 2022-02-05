@@ -6,4 +6,4 @@ This is the main branch cintents
 
 Branch Name: main
 
-TRhis is added only in ht ANDB Brach x0x0
+This is added only in ANDB Branch x0x0
