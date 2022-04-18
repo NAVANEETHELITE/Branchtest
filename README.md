@@ -1,5 +1,5 @@
 # Branchtest
-testing git branched
+testing git branch
 
 
 This is the main branch contents
